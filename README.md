@@ -1,4 +1,7 @@
-# Activity Aware Pulse Rate Algorithm Project
+# Activity Aware Pulse Rate Algorithm Project 
+Please note that this README is from the udacity starter code for the capstone project of the AI in Healthcare Nanodegree. 
+
+This repository consists of different phases of the project that I have completed with explaination for the code and my approach to creating an accurate pulse rate algorithm. 
 
 This project has 2 main parts:
 
