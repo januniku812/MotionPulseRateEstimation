@@ -1,15 +1,17 @@
 # Activity Aware Pulse Rate Algorithm Project 
-Please note that this README is from the udacity starter code for the capstone project of the AI in Healthcare Nanodegree. 
 
-This repository consists of different phases of the project that I have completed with explaination for the code and my approach to creating an accurate pulse rate algorithm. 
+This repository consists of different phases of the project that I have completed with explaination for the code and my approach to creating an accurate pulse rate algorithm. If the Juypter notebook files are not rendering, please download them and view them from
+Files in your computer using the 'Open With' functionality. 
 
-This project has 2 main parts:
+This project has 3 main parts:
 
-- [Part 1](#part-1-pulse-rate-algorithm-overview) - Develop a **Pulse Rate Algorithm** on the given training data. Then **Test Your Algorithm** and see that it has met the success criteria.
-- [Part 2](#part-2-clinical-application-overview) - Apply the Pulse Rate Algorithm on a **Clinical Application** and compute more clinically meaningful features and discover healthcare trends.
+pulse_rate_starter_final_submission.ipynb: [Part 1](#part-1-pulse-rate-algorithm-overview) - Develop a **Pulse Rate Algorithm** on the given training data. Then **Test Your Algorithm** and see that it has met the success criteria.
+clinical_app_starter_final_submission.ipynb: [Part 2](#part-2-clinical-application-overview) - Apply the Pulse Rate Algorithm on a **Clinical Application** and compute more clinically meaningful features and discover healthcare trends.
+unit_test_final_submission.ipynb: Unit Test Notebook verifying the standard of the developed pulse rate algorithm in Part 1. 
 
 Let's start with some background.
 
+Please note that the rest of this README is from the udacity starter code for the capstone project of the AI in Healthcare Nanodegree. I have kept it here as I believe it explains the project and how Udacity structured it.
 -----
 
 ## Introduction
