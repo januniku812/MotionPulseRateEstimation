@@ -1,7 +1,6 @@
 # Activity Aware Pulse Rate Algorithm Project 
 
-This repository consists of different phases of the project that I have completed with explaination for the code and my approach to creating an accurate pulse rate algorithm. If the Juypter notebook files are not rendering, please download them and view them from
-Files in your computer using the 'Open With' functionality. 
+This repository consists of different phases of the project that I have completed with step by step explanations and visuals for the code in Part 1, pulse rate algorithm, and Part 2, clinical exploration. If the Juypter notebook files are not rendering, please download them and view them fromFiles in your computer using the 'Open With' functionality. 
 
 This project has 3 main parts:
 
